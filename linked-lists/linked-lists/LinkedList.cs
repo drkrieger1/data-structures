@@ -35,15 +35,15 @@ namespace linked_lists
 
         public void PrintAllNodes()
         {
-            Console.WriteLine("Head ->");
+            Console.Write("Head ->");
             Node curr = head;
             while (curr.Next != null)
             {
                 curr = curr.Next;
-                Console.WriteLine(curr.Value);
-                Console.WriteLine("->");
+                Console.Write(curr.Value);
+                Console.Write("->");
             }
-            Console.WriteLine("is null");
+            Console.WriteLine(" end ");
         }
     
     }

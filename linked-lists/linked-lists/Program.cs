@@ -8,7 +8,18 @@ namespace linked_lists
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LinkedList lnklist = new LinkedList();
+            lnklist.PrintAllNodes();
+            Console.WriteLine();
+
+            lnklist.AddAtLast("node1");
+            lnklist.AddAtLast("node2");
+            lnklist.AddAtLast("node3");
+            lnklist.AddAtLast("node4");
+            lnklist.PrintAllNodes();
+            Console.WriteLine();
+
+            Console.Read();
         }
     }
 }
