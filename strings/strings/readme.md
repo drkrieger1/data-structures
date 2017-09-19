@@ -9,3 +9,9 @@ Line 16: Makes a for loop to iterate through our startString and reprint it back
 argument minus 1, then i decroments.
 Line 18: myInput at index i will plus equale to the output variable. 
 Line 20: returns the reversed string and that returned string is then printed in the console by line 10. 
+
+#Linked Lists 
+This thing was really hard, there is alot of solutions on google but they do not have a very good explination for the logic.
+I used a tutorial from codeprojects.com. 
+made a nod class and a linkedlist class.
+The linkedlist class held all of your logic. 
