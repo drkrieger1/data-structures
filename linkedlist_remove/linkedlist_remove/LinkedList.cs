@@ -80,7 +80,7 @@ namespace linkedlist_remove
         }
         public void Remove(int input)
         {
-            int index = input - 1;
+            int index = input;
             Console.Write("Head ->");
             Node curr = head;
             Node curr2 = head;
@@ -91,18 +91,21 @@ namespace linkedlist_remove
                 curr = curr.Next;
                 innerCount++;
             }
-            for (int i = 0; i < count - index; i++)
+            for (int i = 0; i < innerCount - index; i++)
             {
                 curr2 = curr2.Next;
                 Console.Write(curr2.Data);
                 Console.Write("->");
+               
 
             }
-            curr2 = curr2.Next.Next;
-            for (int i = 0; i < index; i++)
+            curr2 = curr2.Next;
+            
+            for (int i = 0; i < index - 1 ; i++)
             {
                 curr2 = curr2.Next;
                 Console.Write(curr2.Data);
+                
                 Console.Write("->");
             }
                 Console.Write("End");

@@ -7,9 +7,9 @@ namespace linkedlist_remove
     class Node
     {
         public Node Next { get; set; }
-        public int Data { get; set; }
+        public Object Data { get; set; }
 
-        public Node(int data)
+        public Node(Object data)
         {
             Data = data;
             Next = null;
