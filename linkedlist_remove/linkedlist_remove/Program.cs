@@ -16,7 +16,7 @@ namespace linkedlist_remove
             linked.Add(5);
             linked.Add(6);
 
-            linked.Remove(3);
+            linked.Remove(2);
             Console.Read();
         }
     }
