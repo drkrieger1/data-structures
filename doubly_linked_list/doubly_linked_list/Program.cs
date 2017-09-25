@@ -12,6 +12,7 @@ namespace doubly_linked_list
             doubly.Add(2);
             doubly.Add(3);
             doubly.Add(4);
+            doubly.Add(5);
             doubly.Remove(3);
             doubly.Print();
 
