@@ -20,7 +20,7 @@ namespace doubly_linked_list
             Node newnode = new Node(data);
             curr.Next = newnode;
             newnode.Prev = curr;
-            //curr = newnode;
+            curr = newnode;
         }
         public void Print()
         {
@@ -37,17 +37,17 @@ namespace doubly_linked_list
         }
         public void Remove(object data)
         {
-            //curr = head;
-            //while (curr.Next != null)
-            //{
-                if (curr.Next == data)
+            curr = head;
+            while (curr.Next != null)
+            {
+                if (curr.Data == data)
                 {
                     curr.Next.Prev = null;
                     curr.Next.Next.Prev = curr;
                     curr.Next = curr.Next.Next;
                 }
-            curr = curr.Next; 
-            //}
+            curr = curr.Next;
+            }
             //Console.WriteLine(curr.Next.Data);
         }
 
