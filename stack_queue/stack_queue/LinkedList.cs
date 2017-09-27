@@ -6,7 +6,7 @@ namespace stack_queue
 {
    class LinkedList
     {   
-        public Node head = new Node(null);
+        public Node head = new Node("head");
         
         
         public Node FindTail()
@@ -15,14 +15,16 @@ namespace stack_queue
             
             while (curr.Next != null)
             {
+                
                 curr = curr.Next;
+                
             }
+           Node last = curr.Prev;
             return curr;
         }
         public void Print()
         {
             Node curr = head;
-            Console.Write(curr.Data);
 
             while(curr != null)
             {
@@ -30,7 +32,7 @@ namespace stack_queue
                 Console.Write(curr.Data);
                 curr = curr.Next; 
             }
-            Console.Write("-> end");
+            Console.Write("->:end");
         }
     }
 }

@@ -8,11 +8,20 @@ namespace stack_queue
     {
         public void Add(object data)
         {
-            FindTail().Next = new Node(data);
+            Node newNode = new Node(data);
+            Node curr = FindTail();
+
+            curr.Next = newNode;
+            newNode.Prev = curr;
+            
         }
-        public void Pop(object data)
+        public void Pop()
         {
-            FindTail();
+            Node current = FindTail();
+            current = current.Prev;
+            current.Next = null;
+
+         
         }
     }
 }
