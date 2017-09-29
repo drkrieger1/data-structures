@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoStackQ", "TwoStackQ\TwoStackQ.csproj", "{62CBD0C6-A29B-4166-870C-A0438F595054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62CBD0C6-A29B-4166-870C-A0438F595054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CBD0C6-A29B-4166-870C-A0438F595054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CBD0C6-A29B-4166-870C-A0438F595054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CBD0C6-A29B-4166-870C-A0438F595054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD95771F-C36E-4CAD-8591-59C3FFBD6041}
+	EndGlobalSection
+EndGlobal
