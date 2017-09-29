@@ -16,9 +16,17 @@ namespace TwoStackQ
                 Console.WriteLine("Stack One \n");
             }
             one.Push(data);
-            one.PrintSingle();
 
         }
+        public void PrintOne()
+        {
+            one.PrintState();
+        }
+        public void PrintTwo()
+        {
+            two.PrintState();
+        }
+
         public void DeQueue()
         {
             Console.WriteLine("\n\n Stack Two \n");
@@ -28,12 +36,14 @@ namespace TwoStackQ
                 while(one.Head != null)
                 {
                     two.Push(one.Pop(true));
-                    two.PrintSingle();
+                   
                 }
             }
+            //two.Pop();
+        }
+        public void Pop()
+        {
             two.Pop();
-            Console.WriteLine();
-            two.PrintState();
         }
     }
 }

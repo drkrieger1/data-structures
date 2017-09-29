@@ -6,13 +6,16 @@ namespace TwoStackQ
 {
     class Stack
     {
-       public Node Head;
+        public Node Head;
 
         public void Push(object data)
         {
+            
             Node newNode = new Node(data);
+
             newNode.Next = Head;
             Head = newNode;
+
         }
 
         public void Pop()
@@ -28,12 +31,16 @@ namespace TwoStackQ
         }
         public void PrintState()
         {
-            while (Head.Next != null)
+            Node curr = Head;
+            while (curr.Next != null)
             {
                 Console.Write("->");
-                Console.Write(Head.Data);
+                Console.Write(curr.Data);
+                curr = curr.Next;
             }
-            Head = Head.Next;
+           
+            Console.Write("->");
+            Console.Write(curr.Data);
         }
 
         public void PrintSingle()

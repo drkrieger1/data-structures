@@ -8,11 +8,13 @@ namespace TwoStackQ
     {
         public object Data { get; set; }
         public Node Next { get; set; }
+        public Node Prev { get; set; }
         
         public Node(object data)
         {
             Data = data;
             Next = null;
+            Prev = null;
         }
     }
 }
