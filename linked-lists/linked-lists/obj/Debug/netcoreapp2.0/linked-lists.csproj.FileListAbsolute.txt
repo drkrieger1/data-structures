@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\bin\Debug\netcoreapp2.0\linked-lists.deps.json
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\bin\Debug\netcoreapp2.0\linked-lists.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\bin\Debug\netcoreapp2.0\linked-lists.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\bin\Debug\netcoreapp2.0\linked-lists.dll
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\bin\Debug\netcoreapp2.0\linked-lists.pdb
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.dll
+C:\Users\shop2\Source\Repos\data-structures\linked-lists\linked-lists\obj\Debug\netcoreapp2.0\linked-lists.pdb

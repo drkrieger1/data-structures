@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\bin\Debug\netcoreapp2.0\TwoStackQ.deps.json
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\bin\Debug\netcoreapp2.0\TwoStackQ.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\bin\Debug\netcoreapp2.0\TwoStackQ.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\bin\Debug\netcoreapp2.0\TwoStackQ.dll
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\bin\Debug\netcoreapp2.0\TwoStackQ.pdb
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.dll
+C:\Users\shop2\Source\Repos\data-structures\TwoStackQ\TwoStackQ\obj\Debug\netcoreapp2.0\TwoStackQ.pdb
