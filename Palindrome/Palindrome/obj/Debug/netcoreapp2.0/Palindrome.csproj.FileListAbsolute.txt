@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.deps.json
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.dll
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.pdb
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.dll
+C:\Users\shop2\Source\Repos\data-structures\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.pdb

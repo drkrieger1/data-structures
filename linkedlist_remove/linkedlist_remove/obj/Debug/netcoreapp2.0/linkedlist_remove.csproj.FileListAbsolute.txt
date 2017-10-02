@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\bin\Debug\netcoreapp2.0\linkedlist_remove.deps.json
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\bin\Debug\netcoreapp2.0\linkedlist_remove.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\bin\Debug\netcoreapp2.0\linkedlist_remove.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\bin\Debug\netcoreapp2.0\linkedlist_remove.dll
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\bin\Debug\netcoreapp2.0\linkedlist_remove.pdb
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.dll
+C:\Users\shop2\Source\Repos\data-structures\linkedlist_remove\linkedlist_remove\obj\Debug\netcoreapp2.0\linkedlist_remove.pdb

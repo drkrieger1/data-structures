@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\bin\Debug\netcoreapp2.0\doubly_linked_list.deps.json
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\bin\Debug\netcoreapp2.0\doubly_linked_list.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\bin\Debug\netcoreapp2.0\doubly_linked_list.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\bin\Debug\netcoreapp2.0\doubly_linked_list.dll
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\bin\Debug\netcoreapp2.0\doubly_linked_list.pdb
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.dll
+C:\Users\shop2\Source\Repos\data-structures\doubly_linked_list\doubly_linked_list\obj\Debug\netcoreapp2.0\doubly_linked_list.pdb

@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\bin\Debug\netcoreapp2.0\Linked_lists_find.deps.json
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\bin\Debug\netcoreapp2.0\Linked_lists_find.runtimeconfig.json
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\bin\Debug\netcoreapp2.0\Linked_lists_find.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\bin\Debug\netcoreapp2.0\Linked_lists_find.dll
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\bin\Debug\netcoreapp2.0\Linked_lists_find.pdb
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.dll
+C:\Users\shop2\Source\Repos\data-structures\Linked_lists_find\Linked_lists_find\obj\Debug\netcoreapp2.0\Linked_lists_find.pdb
