@@ -45,7 +45,7 @@ namespace doubly_linked_list
             {
                 if (curr.Data.ToString() == data.ToString())
                 {
-                    curr.Next = null;
+                    curr.Next.Prev = null;
                     curr.Next.Prev = curr;
                     curr.Next = curr.Next.Next;
                 }
