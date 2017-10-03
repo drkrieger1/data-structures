@@ -30,8 +30,11 @@ namespace doubly_linked_list
                 Console.Write("->");
                 Console.Write(curr.Data);
                 curr = curr.Next;
+                
 
             }
+            Console.Write("->");
+            Console.Write(curr.Data);
             Console.Write("->");
             Console.Write("null");
         }
@@ -40,10 +43,10 @@ namespace doubly_linked_list
             curr = head;
             while (curr.Next != null)
             {
-                if (curr.Data == data)
+                if (curr.Data.ToString() == data.ToString())
                 {
                     curr.Next.Prev = null;
-                    curr.Next.Next.Prev = curr;
+                    curr.Next.Prev = curr;
                     curr.Next = curr.Next.Next;
                 }
             curr = curr.Next;
