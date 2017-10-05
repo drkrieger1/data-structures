@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TraversTree
+namespace InorderTree
 {
     class Tree
     {
@@ -19,12 +19,12 @@ namespace TraversTree
 
         public void Travers()
         {
-            if(Left != null)
+            if (Left != null)
             {
                 Left.Travers();
             }
             Console.Write(Data);
-            if(Right != null)
+            if (Right != null)
             {
                 Right.Travers();
             }
