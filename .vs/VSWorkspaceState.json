@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\BinaryTree",
+    "\\BreathFirst",
     "\\doubly_linked_list",
     "\\doubly_linked_list\\doubly_linked_list",
+    "\\InorderTree",
     "\\linked-lists",
     "\\linkedlist_remove",
     "\\linkedlist_remove\\linkedlist_remove",
-    "\\Linked_lists_find",
-    "\\Linked_lists_find\\Linked_lists_find"
+    "\\Linked_lists_find"
   ],
-  "SelectedNode": "\\TraversTree",
+  "SelectedNode": "\\BreathFirst\\BreathFirst.sln",
   "PreviewInSolutionExplorer": false
 }
