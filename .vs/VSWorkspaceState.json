@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\BinaryTree",
-    "\\BreathFirst",
-    "\\doubly_linked_list",
-    "\\doubly_linked_list\\doubly_linked_list",
-    "\\InorderTree",
-    "\\linked-lists",
-    "\\linkedlist_remove",
-    "\\linkedlist_remove\\linkedlist_remove",
-    "\\Linked_lists_find"
+    ""
   ],
-  "SelectedNode": "\\BreathFirst\\BreathFirst.sln",
+  "SelectedNode": "\\BSTD",
   "PreviewInSolutionExplorer": false
 }
