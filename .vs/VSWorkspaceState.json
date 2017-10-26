@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MergeSort"
   ],
-  "SelectedNode": "\\BSTD",
+  "SelectedNode": "\\MergeSort\\MergeSort.sln",
   "PreviewInSolutionExplorer": false
 }
