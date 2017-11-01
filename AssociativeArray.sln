@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssociativeArray", "AssociativeArray\AssociativeArray.csproj", "{D7D08A96-5A6A-4326-BD05-0EBB05CB943D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D08A96-5A6A-4326-BD05-0EBB05CB943D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D08A96-5A6A-4326-BD05-0EBB05CB943D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D08A96-5A6A-4326-BD05-0EBB05CB943D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D08A96-5A6A-4326-BD05-0EBB05CB943D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535044B4-3912-42F4-A03A-FF7A24CA83F6}
+	EndGlobalSection
+EndGlobal
