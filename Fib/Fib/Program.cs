@@ -9,9 +9,10 @@ namespace Fib
             Console.WriteLine("Fib find Nth");
             Fib myFib = new Fib();
             Console.WriteLine("Enter Nth number to find");
-            
+            //git issues
             myFib.FindNth(Int32.Parse(Console.ReadLine()));
             Console.Read();
+
         }
     }
     public class Fib
