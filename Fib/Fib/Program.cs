@@ -8,7 +8,9 @@ namespace Fib
         {
             Console.WriteLine("Fib find Nth");
             Fib myFib = new Fib();
-            myFib.FindNth(5);
+            Console.WriteLine("Enter Nth number to find");
+            
+            myFib.FindNth(Int32.Parse(Console.ReadLine()));
             Console.Read();
         }
     }
