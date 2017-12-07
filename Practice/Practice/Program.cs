@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace Practice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Data structure practice");
+
+            LinkedList myList = new LinkedList();
+
+            myList.AddLast(1);
+            myList.AddLast(2);
+            myList.AddLast(3);
+            myList.AddLast(4);
+
+            myList.Print();
+
+            Console.Read();
+        }
+    }
+}
