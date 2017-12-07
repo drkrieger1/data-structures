@@ -22,34 +22,30 @@ namespace Practice
 
         public LinkedList()
         {
-            Node head = new Node(0);
-            Node tail = head;
+            head = new Node(0);
+            tail = head;
         }
 
-        internal Node Tail { get => tail; set => tail = value; }
 
         //This method will add to the linked list
         public void AddLast(int data)
-        {
-            if(tail.Next == null)
-            {
-                tail.Next = new Node(data);
-                tail = tail.Next;
-            }
-
-            Tail = Tail.Next;
-            AddLast(data);          
+        {        
+            tail.Next = new Node(data);
+            tail = tail.Next;        
         }
 
         public void Print()
         {
+            Node curr = head;
             Console.Write($"Head ->");
-            head = head.Next;
-            while(head.Next != null)
-            {
-                Console.Write($"{head.Data} ->");
-            }
+            curr = curr.Next;
 
+            while(curr.Next != null)
+            {
+                Console.Write($"{curr.Data} ->");
+                curr = curr.Next;
+            }
+            Console.Write($"{curr.Data} ->");
             Console.Write("Tail");
         }
     }
