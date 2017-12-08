@@ -56,5 +56,11 @@ namespace Practice
             newNode.Next = head.Next;
             head.Next = newNode;
         }
+
+        public void Remove(int data)
+        {
+            //find the node that will be removed
+
+        }
     }
 }
