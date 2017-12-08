@@ -17,6 +17,17 @@ namespace Practice
 
             myList.Print();
 
+            Console.WriteLine();
+
+            LinkedList frontList = new LinkedList();
+
+            frontList.AddFirst(1);
+            frontList.AddFirst(2);
+            frontList.AddFirst(3);
+            frontList.AddFirst(4);
+
+            frontList.Print();
+
             Console.Read();
         }
     }
