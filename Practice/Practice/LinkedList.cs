@@ -48,5 +48,16 @@ namespace Practice
             Console.Write($"{curr.Data} ->");
             Console.Write("Tail");
         }
+
+        public void AddFirst(int data)
+        {
+            //Node newNode = new Node(data);
+
+            //newNode.Next = head;
+            //head.Next = newNode;
+
+            head.Next = new Node(data);
+            head = head.Next;
+        }
     }
 }
