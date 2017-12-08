@@ -51,13 +51,10 @@ namespace Practice
 
         public void AddFirst(int data)
         {
-            //Node newNode = new Node(data);
+            Node newNode = new Node(data);
 
-            //newNode.Next = head;
-            //head.Next = newNode;
-
-            head.Next = new Node(data);
-            head = head.Next;
+            newNode.Next = head.Next;
+            head.Next = newNode;
         }
     }
 }
