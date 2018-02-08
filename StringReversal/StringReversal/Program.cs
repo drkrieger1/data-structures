@@ -7,9 +7,11 @@ namespace StringReversal
         static void Main(string[] args)
         {
             Console.WriteLine("String Reversal/ Word Reversal");
-
+            
+            //Test Array with strings
             string[] testArray = new string[] {"Hello World", "String Test Working", "1 2 3 4 5 6" };
-            foreach(string s in testArray)
+
+            foreach (string s in testArray)
             {
                 Console.WriteLine($"Input <- {s}");
                 Console.WriteLine($"Output -> {Reverse(s)} \n");
@@ -17,7 +19,7 @@ namespace StringReversal
            
             Console.Read();           
         }
-
+        //Reverse Method
         static string Reverse(string input)
         {
             input += " ";
